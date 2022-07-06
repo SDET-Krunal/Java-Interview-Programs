@@ -1,5 +1,7 @@
 # Default ignored files
 /shelf/
+out
+run
 
 # Compiled Java class files
 *.class
